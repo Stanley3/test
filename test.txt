@@ -1,0 +1,4 @@
+# This is a file to test git.
+#The following line from test1 floder.
+This is first line.
+This is sencond line.
