@@ -2,11 +2,10 @@
 #The following lines from test1 floder.
 This is first line.
 This is sencond line.
-test again.
+test again. again test. shared, shared.
 #Sencond editing
 This a new line add in test1 floder and this line must be push to remote.
 This is sencond line. and test line.
 #The following line from test2 floder.
 This a new line.
 again test in test2
-
